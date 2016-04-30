@@ -1,15 +1,16 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: Accès compte
-datePublished: '2016-04-30T19:00:16.512Z'
-dateModified: '2016-04-30T19:00:06.391Z'
+datePublished: '2016-04-30T19:01:56.738Z'
+dateModified: '2016-04-30T19:00:59.837Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-30-acces-compte.md
+published: true
 authors: []
 publisher:
   name: null
@@ -17,9 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-30-acces-compte.md
-published: true
-_type: Blurb
+url: acces-compte/index.html
+_type: Article
 
 ---
 Accès compte

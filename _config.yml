@@ -1,0 +1,28 @@
+name: orispay.com
+favicon: null
+layout_spectrum: 0.4609373651910573
+typography_spectrum: 0.6457193014211953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.20918271783739328
+  lightness: 0.46732464293017983
+  saturation: 0.7591538575943559
+  rhythmicContrast: 0.42301980988122523
+purpose: []

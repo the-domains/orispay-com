@@ -2,6 +2,7 @@ name: orispay.com
 favicon: null
 layout_spectrum: 0.4609373651910573
 typography_spectrum: 0.6457193014211953
+title: ORISPAY - Paiement électronique
 cta:
   domain: null
   bucket: null

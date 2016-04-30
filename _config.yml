@@ -1,11 +1,8 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: orispay.com
+favicon: null
+layout_spectrum: 0.4609373651910573
+typography_spectrum: 0.6457193014211953
+title: ORISPAY - Paiement électronique
 collections:
   - index:
       path: /
@@ -18,24 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.4609373651910573
-title: ORISPAY - Paiement électronique
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7591538575943559
-  brandStrength: 0.2091827178373933
-  rhythmicContrast: 0.4230198098812252
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+  brandStrength: 0.2091827178373933
   lightness: 0.4673246429301798
+  saturation: 0.7591538575943559
+  rhythmicContrast: 0.4230198098812252
 purpose: []
-favicon: null
-name: orispay.com
-typography_spectrum: 0.6457193014211953

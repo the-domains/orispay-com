@@ -4,7 +4,7 @@
         <description><![CDATA[ORISPAY - Paiement électronique]]></description>
         <link>https://thegrid.ai/orispay-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 18:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 19:02:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/orispay-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Envoi de fonds & paiement ]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/orispay-com/approvisionnement-compte/index.html</link>
             <guid isPermaLink="false">af0625d3-e22c-43d7-952c-717cf2a8b105</guid>
             <pubDate>Sat, 30 Apr 2016 18:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Accès compte]]></title>
+            <description><![CDATA[<p>Accès compte</p>]]></description>
+            <link>https://thegrid.ai/orispay-com/acces-compte/index.html</link>
+            <guid isPermaLink="false">c51031c2-bae3-4485-9107-1d32b991982a</guid>
+            <pubDate>Sat, 30 Apr 2016 19:01:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Réception de fonds ]]></title>

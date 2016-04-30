@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ORISPAY - Paiement électronique]]></title>
         <description><![CDATA[ORISPAY - Paiement électronique]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/orispay-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 18:25:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 18:29:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/orispay-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Réception de fonds ]]></title>
+            <description><![CDATA[<p>Réception de fonds</p>]]></description>
+            <link>https://thegrid.ai/orispay-com/reception-de-fonds/index.html</link>
+            <guid isPermaLink="false">2095a7b5-f9e3-431a-ab3d-207841883c05</guid>
+            <pubDate>Sat, 30 Apr 2016 18:28:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Approvisionnement compte ]]></title>
             <description><![CDATA[<p>Approvisionnement compte</p>]]></description>
-            <link>undefinedapprovisionnement-compte/index.html</link>
+            <link>https://thegrid.ai/orispay-com/approvisionnement-compte/index.html</link>
             <guid isPermaLink="false">af0625d3-e22c-43d7-952c-717cf2a8b105</guid>
             <pubDate>Sat, 30 Apr 2016 18:24:40 GMT</pubDate>
         </item>
